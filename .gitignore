@@ -1,0 +1,14 @@
+## Custom ignores
+.env.sh
+
+## Idea files
+.idea/
+*.iml
+
+## Kotlin
+target/
+out/
+
+## Gradle
+build/
+.gradle/
