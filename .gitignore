@@ -2,10 +2,3 @@
 .idea/
 *.iml
 
-## Kotlin
-target/
-out/
-
-## Gradle
-build/
-.gradle/
