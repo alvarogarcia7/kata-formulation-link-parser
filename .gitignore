@@ -1,3 +1,6 @@
+## Custom ignores
+.env.sh
+
 ## Idea files
 .idea/
 *.iml
