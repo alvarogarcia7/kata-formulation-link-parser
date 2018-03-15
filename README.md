@@ -12,5 +12,11 @@ They should be green.
 
 Refactor the production code to comply with the above goals.
 
+## Contributions
 
+Contributions are welcome. Please send a pull request.
+
+Issues are welcome. Please send an issue to the github tracker.
+
+Translations to other [programming] languages are welcome, via pull request.
 
