@@ -1,0 +1,8 @@
+## Kotlin
+target/
+out/
+
+## Gradle
+build/
+.gradle/
+
